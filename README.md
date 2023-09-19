@@ -2,6 +2,8 @@
 
 This is a simple Node.js server that retrieves the user's IP address and country information.
 Client Source https://github.com/ReFo0/node-ip-country-client
+<img width=900 src="https://github.com/ReFo0/node-ip-country-server/server.png">
+
 
 ## Usage
 
