@@ -11,5 +11,5 @@ const server = http.createServer(async (req, res) =>
 
 const port = 3000;
 server.listen(port, () => {
-  console.log(`server started.`);
+  console.log(`${port} Port Listening`);
 });
